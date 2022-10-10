@@ -35,20 +35,5 @@ public class Account {
         System.out.println("Account Balance: "+" "+ this.balance);
     }
 
-    // public static void main(String args[]) {
-
-    //     Account A = new Account();
-    //     Account B = new Account();
-
-    //     A.setAccountNumber(123456);
-    //     A.setAccountHolderName("Mr Bean");
-    //     A.setBalance(152413);
-    //     A.showDetails();
-
-    //     B.setAccountNumber(1234567);
-    //     B.setAccountHolderName("Charlie Chaplin");
-    //     B.setBalance(134654);
-    //     B.showDetails();
-    // }
 
 }
